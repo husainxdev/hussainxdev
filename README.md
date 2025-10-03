@@ -1,59 +1,63 @@
-<h1 align="center">Hi 👋, I'm Hussain Ahmed</h1>
-<h3 align="center">🚀 Passionate Learner | 💻 CSE Student | 🔥 Aspiring Developer</h3>
-
+<!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=36BCF7&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;I+love+Coding+and+Problem+Solving;Always+learning+new+things" />
+  <img src="https://i.ibb.co/2gFfFPW/developer-gif.gif" alt="Developer Banner" width="100%" />
+</p>
+
+<!-- Welcome Typing Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Hussain+Ahmed;Welcome+to+my+GitHub+Profile!;CSE+Student+%7C+Developer+%7C+Dreamer;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
+
+---
+
+## 🌟 About Me
+- 👨‍🎓 CSE Student & Passionate Developer  
+- 🌱 Currently learning **C, Data Structures, Algorithms & Web Dev**  
+- 🚀 Building **Light of Education** (Educational Website Project)  
+- 🎯 Goal: To become a world-class developer & problem solver  
+- 💬 Ask me about **C, C++, Python, Web Dev, Firebase**  
+- 📫 Reach me: **[husainxdev@gmail.com](mailto:husainxdev@gmail.com)**  
+
+---
+
+## ⚡ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,tailwind,firebase,git,github,vscode,linux&perline=6" />
 </p>
 
 ---
 
-### 🚀 About Me
-- 🌱 Currently learning **C Programming, Data Structures, and Algorithms**  
-- 🎯 Interested in **Problem Solving, Web Development, and Computer Science**  
-- 📚 Building **Light of Education** (Educational Website Project)  
-- 💬 Ask me about **C, C++, Python, Firebase, Web Dev**  
-- 📫 How to reach me: **[husainxdev@gmail.com](mailto:husainxdev@gmail.com)**  
-
----
-
-### 🛠️ Languages and Tools
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
-
----
-
-### 📊 GitHub Stats
+## 📊 GitHub Stats & Contributions
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=husainxdev&show_icons=true&theme=radical" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=husainxdev&layout=compact&theme=radical" alt="languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=husainxdev&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=husainxdev&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=husainxdev&theme=radical&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=husainxdev&theme=tokyonight&hide_border=true" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=husainxdev&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
-### 🌐 Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/husainxdev" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:husainxdev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/husainxdev">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+## 🌍 Connect with Me
+<p align="center">
+  <a href="mailto:husainxdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/husainxdev"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/husainxdev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-⭐️ **Made with ❤️ by [husainxdev](https://github.com/husainxdev)**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</p>
+
+<h3 align="center">✨ Thanks for Visiting My Profile ✨</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100"/>
+</p>
